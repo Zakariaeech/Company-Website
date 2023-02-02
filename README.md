@@ -2,7 +2,7 @@
 
 You can run the website at : [https://incomparable-starship-65c5a6.netlify.app/](https://incomparable-starship-65c5a6.netlify.app/)
 
-I used the Netlify to deploy the website (the maps do not work when I deploy the website using Netlify you can see it here)
+I used Netlify to deploy the website (the maps do not work when I deploy the website using Netlify you can see it here)
 
 ![map in widescreen](/issues/Capture1.JPG "map in widescreen").
 ![map in mobile screen](/issues/Capture2.JPG "map in mobile screen").
